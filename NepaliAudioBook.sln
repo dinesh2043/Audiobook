@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NepaliAudioBook", "NepaliAudioBook\NepaliAudioBook.csproj", "{BFB729D9-029C-47E2-99BD-3CD9A6FDED1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioPlaybackAgent", "AudioPlaybackAgent\AudioPlaybackAgent.csproj", "{9915A3D3-84C9-4FD3-BA7F-403CA1A1D3F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB729D9-029C-47E2-99BD-3CD9A6FDED1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB729D9-029C-47E2-99BD-3CD9A6FDED1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB729D9-029C-47E2-99BD-3CD9A6FDED1E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BFB729D9-029C-47E2-99BD-3CD9A6FDED1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB729D9-029C-47E2-99BD-3CD9A6FDED1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB729D9-029C-47E2-99BD-3CD9A6FDED1E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9915A3D3-84C9-4FD3-BA7F-403CA1A1D3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9915A3D3-84C9-4FD3-BA7F-403CA1A1D3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9915A3D3-84C9-4FD3-BA7F-403CA1A1D3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9915A3D3-84C9-4FD3-BA7F-403CA1A1D3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
